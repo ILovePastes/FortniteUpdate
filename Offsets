@@ -31,3 +31,4 @@ WeaponStatHandle = 0x820
 FireStartLoc = 0x878	
 ReloadTime = 0xFC	
 bAlreadySearched = 0xC61
+
